@@ -3,5 +3,5 @@ Practicas, ejercicios y resolución de problemas para la presentacion en la espe
 Sprint1.- Bases de Datos relacionales.
 ## Objetivo.- Python, SQL, MySQL, Jupyter, Markdown.
  - Creacion de bases de datos.
- - Insercion, modificacion, eliminacion de datos
+ - Inserción, modificación, eliminación de datos
  - Consultas SQL
