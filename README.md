@@ -13,3 +13,14 @@ Prácticas, ejercicios y resolución de problemas para la presentación en la es
 - Using hypothesis tests in python.
 - Use and interpretation of the p-value for one or more attributes.
 - Application of the hypothesis test and interpretation of the results.
+
+-> Hypothesis testing.
+
+-> Main objective of Hypothesis testing.
+
+-> Step-by-step guide to hypothesis testing.
+
+-> Statistical hypothesis testing with Python.
+
+-> Hypothesis testing (p-value method).
+
