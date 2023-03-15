@@ -14,7 +14,9 @@ Prácticas, ejercicios y resolución de problemas para la presentación en la es
 - Use and interpretation of the p-value for one or more attributes.
 - Application of the hypothesis test and interpretation of the results.
 
--> Hypothesis testing.
+Easy links:
+
+-> [Hypothesis testing](https://towardsdatascience.com/hypothesis-testing-explained-as-simply-as-possible-6e0a256293cf)
 
 -> Main objective of Hypothesis testing.
 
