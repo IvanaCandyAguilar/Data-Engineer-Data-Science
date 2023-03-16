@@ -18,11 +18,11 @@ Easy links:
 
 -> [Hypothesis testing](https://towardsdatascience.com/hypothesis-testing-explained-as-simply-as-possible-6e0a256293cf)
 
--> Main objective of Hypothesis testing.
+-> [Main objective of Hypothesis testing](https://www.statisticshowto.com/probability-and-statistics/hypothesis-testing/)
 
--> Step-by-step guide to hypothesis testing.
+-> [Step-by-step guide to hypothesis testing](https://www.scribbr.com/statistics/hypothesis-testing/)
 
--> Statistical hypothesis testing with Python.
+-> [Statistical hypothesis testing with Python](https://machinelearningmastery.com/statistical-hypothesis-tests-in-python-cheat-sheet/)
 
--> Hypothesis testing (p-value method).
+-> [Hypothesis testing (p-value method)](https://online.stat.psu.edu/statprogram/reviews/statistical-concepts/hypothesis-testing/p-value-approach)
 
