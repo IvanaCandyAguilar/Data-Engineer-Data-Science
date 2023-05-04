@@ -26,3 +26,27 @@ Easy links:
 
 -> [Hypothesis testing (p-value method)](https://online.stat.psu.edu/statprogram/reviews/statistical-concepts/hypothesis-testing/p-value-approach)
 
+## Sprint 7. Supervised learning algorithms: Classification
+
+### Tools.- Python (Scikit-learn), SQL, MySQL, Jupyter, Markdown.
+
+#### Targets
+
+- Correctly apply the supervised learning algorithms of Classification.
+
+#### Specific objectives
+
+- Know Classification variables and techniques (Classification trees, K – Nearest Neighbours, Logistic Regression, Support Vector Machine, XGBoost).
+- Evaluate classification models.
+
+Easy links, resources for the Classification:
+
+-> [Classification trees tutorial](https://www.datacamp.com/community/tutorials/decision-tree-classification-python)
+
+-> [KNN algorithm](https://stackabuse.com/k-nearest-neighbors-algorithm-in-python-and-scikit-learn/)
+
+-> [SVM algorithm](https://www.datacamp.com/community/tutorials/svm-classification-scikit-learn-python)
+
+-> [XGBoost algorithm](https://www.datacamp.com/community/tutorials/xgboost-in-python)
+
+-> [Cross validation systems](https://scikit-learn.org/stable/modules/cross_validation.html)
